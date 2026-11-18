@@ -53,7 +53,3 @@ configs/    settings
 onconet/    data, models, losses, metrics, training, interpretability
 scripts/    experiment stages
 ```
-
-## License
-
-MIT
