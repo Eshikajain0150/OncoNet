@@ -1,0 +1,13 @@
+# data and large artefacts (the dataset is downloaded from Kaggle; see README)
+data/
+outputs/**/*.pt
+outputs/**/*.npz
+*.pth
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.zip
